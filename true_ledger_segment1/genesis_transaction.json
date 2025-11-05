@@ -1,0 +1,20 @@
+{
+  "payload": {
+    "timestamp": 1730814442,
+    "author_did": "did:key:z6Mkm9VVSJaCT8xBUi63RsWhWMafYY3C2RDuJ7p3MD9cWS4V",
+    "entries": [
+      {
+        "account_id": "10100",
+        "debit": "10000.00",
+        "credit": "0.00"
+      },
+      {
+        "account_id": "30100",
+        "debit": "0.00",
+        "credit": "10000.00"
+      }
+    ],
+    "memo": "Initial capital contribution by owner."
+  },
+  "signature": "e013c144d2c8b9015b5d5b349e57dbd29b4cd50726622fc43c34b12fcc3a5c724f3a0f8be7f9158677c3892d6f7bfbb6007e8108eb2b04a5d8d1dabe7bf8c107"
+}
